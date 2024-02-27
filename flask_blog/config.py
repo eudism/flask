@@ -10,4 +10,4 @@ class config:
     MAIL_USE_TLS = True
     MAIL_USE_SSL = False
     MAIL_USERNAME = "eudismuhangi@gmail.com"
-    MAIL_PASSWORD = "PEACEEUDIS"
+    MAIL_PASSWORD = "fjfjf"
